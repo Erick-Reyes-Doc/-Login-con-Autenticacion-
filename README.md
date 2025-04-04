@@ -1,8 +1,36 @@
-# React + Vite
+# 🔐 Login con Autenticación – Formulario Seguro con JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto implementa un sistema de **inicio de sesión básico** utilizando **HTML, CSS y JavaScript**, con autenticación local simulada y validación de formularios.  
+Ideal para aprender cómo funcionan los sistemas de login a nivel frontend y cómo manejar sesiones o autenticación básica.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 ¿Qué incluye?
+
+- 🧾 Formulario de inicio de sesión (correo y contraseña).
+- ✔️ Validaciones en tiempo real (campos vacíos, longitud, etc).
+- ❌ Mensajes de error dinámicos si hay datos incorrectos.
+- 🔐 Simulación de autenticación con usuario/contraseña predefinidos.
+- ✅ Mensaje de éxito al iniciar sesión.
+- 🔁 Reinicio de formulario tras el login.
+- 🎨 Estilos limpios y responsive.
+
+---
+
+
+## ⚙️ Tecnologías utilizadas
+
+- 🧱 HTML5
+- 🎨 CSS3
+- 💡 JavaScript (puro)
+- 💾 Simulación de validación (sin backend)
+
+---
+
+## 🚀 ¿Cómo ejecutarlo?
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/Erick-Reyes-Doc/Login-Autenticacion.git
+cd Login-Autenticacion
